@@ -1,4 +1,4 @@
-module github.com/hodocore/hid
+module github.com/henrycuong1991/hid
 
 go 1.20
 
